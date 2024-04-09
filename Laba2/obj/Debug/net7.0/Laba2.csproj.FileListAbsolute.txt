@@ -1,0 +1,28 @@
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.AssemblyInfoInputs.cache
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.AssemblyInfo.cs
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\bin\Debug\net7.0\Laba2.exe
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\bin\Debug\net7.0\Laba2.deps.json
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\bin\Debug\net7.0\Laba2.runtimeconfig.json
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\bin\Debug\net7.0\Laba2.dll
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\bin\Debug\net7.0\Laba2.pdb
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.dll
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\obj\Debug\net7.0\refint\Laba2.dll
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.pdb
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.genruntimeconfig.cache
+C:\Users\Rush.exe\Desktop\IATUProject\Laba2\Laba2\obj\Debug\net7.0\ref\Laba2.dll
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\bin\Debug\net7.0\Laba2.exe
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\bin\Debug\net7.0\Laba2.deps.json
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\bin\Debug\net7.0\Laba2.runtimeconfig.json
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\bin\Debug\net7.0\Laba2.dll
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\bin\Debug\net7.0\Laba2.pdb
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.AssemblyInfoInputs.cache
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.AssemblyInfo.cs
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.dll
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\obj\Debug\net7.0\refint\Laba2.dll
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.pdb
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\obj\Debug\net7.0\Laba2.genruntimeconfig.cache
+C:\Users\diman\OneDrive\Рабочий стол\Sem4\IATUProject\Laba2\Laba2\obj\Debug\net7.0\ref\Laba2.dll

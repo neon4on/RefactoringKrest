@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|c:\\users\\diman\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sem4\\iatuproject\\laba2\\laba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|solutionrelative:laba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|c:\\users\\diman\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sem4\\iatuproject\\laba2\\laba2\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|solutionrelative:laba2\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|c:\\users\\diman\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sem4\\iatuproject\\laba2\\laba2\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|solutionrelative:laba2\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|c:\\users\\diman\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sem4\\iatuproject\\laba2\\laba2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|solutionrelative:laba2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|c:\\users\\diman\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sem4\\iatuproject\\laba2\\laba2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|solutionrelative:laba2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|c:\\users\\diman\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\sem4\\iatuproject\\laba2\\laba2\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB058C3-3345-4F35-BD9D-BC507793C07F}|Laba2\\Laba2.csproj|solutionrelative:laba2\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Laba2\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\ClassDiagram1.cd",
+              "RelativeToolTip": "Laba2\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-04-09T11:45:36.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\Movie.cs",
+              "RelativeDocumentMoniker": "Laba2\\Movie.cs",
+              "ToolTip": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\Movie.cs",
+              "RelativeToolTip": "Laba2\\Movie.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:45:36.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\Customer.cs",
+              "RelativeDocumentMoniker": "Laba2\\Customer.cs",
+              "ToolTip": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\Customer.cs",
+              "RelativeToolTip": "Laba2\\Customer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:45:37.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\Rental.cs",
+              "RelativeDocumentMoniker": "Laba2\\Rental.cs",
+              "ToolTip": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\Rental.cs",
+              "RelativeToolTip": "Laba2\\Rental.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:45:37.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Statement.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\Statement.cs",
+              "RelativeDocumentMoniker": "Laba2\\Statement.cs",
+              "ToolTip": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\Statement.cs",
+              "RelativeToolTip": "Laba2\\Statement.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:45:37.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\Program.cs",
+              "RelativeDocumentMoniker": "Laba2\\Program.cs",
+              "ToolTip": "C:\\Users\\diman\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Sem4\\IATUProject\\Laba2\\Laba2\\Program.cs",
+              "RelativeToolTip": "Laba2\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:45:37.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
